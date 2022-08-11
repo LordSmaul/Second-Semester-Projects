@@ -169,7 +169,7 @@ void VideoGameLibrary::loadVideoGamesFromFile(string file)
 
     if (!ifs.is_open())
     {
-        cout << "Sorry, the specified file could no be opened." << endl;
+        cout << "Sorry, the specified file could not be opened." << endl;
     }
     else
     {
