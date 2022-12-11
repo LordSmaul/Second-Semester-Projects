@@ -1,6 +1,6 @@
 # Second-Semester-Projects
 
-This folder contains all of the coding labs and assignments from my second semester in a second introductory Computer Science course at my college. I decided it would be a good idea to post all the files online to preserve them in case I get a new computer.
+This folder contains all of the coding labs and assignments from my second semester in a second introductory Computer Science course at my college. I decided it would be a good idea to post all the files online to preserve them in case I get a new computer and to showcase my growing online portfolio.
 
 There are two types of assignments here: Labs and Projects. The labs were given weekly to help the students practice what they had learned in the lectures. The projects were assigned every couple of weeks; they were generally more comprehensive in their scope and supposed to be harder than the labs, and we were given more time to complete them.
 
@@ -12,7 +12,7 @@ Lab 1: Practice with classes and pointers; sort of a re-cap of the last things w
  - Creates a structure called "Course", with mutiple attributes
  - Includes functions for constructing the object, a destructor, and printing the attributes
  
- Lab 2: practice with function recursion
+ Lab 2: Practice with function recursion
  - constrcuted multiple functions that use recursive tactics to iterate through data
  - Functions include: summing up numbers from 1 to the user input number, checking if a number is a part of an array, reversing a string, checking if a string is a palindrome, and multiplying two numbers
  
@@ -30,7 +30,7 @@ Lab 5: Abstract Data Type: The Stack - Inventory Management
  - Contains functions for pushing and popping variables
  - the pop() function uses a pass-by-reference variable to pull the top item off the stack
   
-Lab 6: Abstract Data Type: The Queue - Managing multiple queues at a them park ride
+Lab 6: Abstract Data Type: The Queue - Managing multiple queues at a theme park ride
  - Builds a Queue object using the same tactics as the user-defined list and stack objects from previous labs
  - The program has the user manainging two queues of a ride at a theme park. One queue is for InstantPass holders, who are allowed to go on the ride first, and the other queue is for normal pass holders, who go only when the InstantPass queue is empty.
  -  Contains functions for enqueueing and dequeueing elements, as well as a destructor
@@ -42,8 +42,21 @@ Lab 7: Introduction to Hash Tables - Costume inventory
  - Includes functions for putting values into the HashTable and printing its values
  - Uses linear probing to handle bucket collisions
  - User creates Costumes from input and place them into the HashTable; the table is then printed out, showing all the attributes.
+ 
+Lab 8: Introduction to Trees: Binary Search Trees
+ - Creating a Binary Search Tree, with functions for copying, inserting, and displaying elements in order.
+ - includes mutliple constructors and recrusive private functions for abstraction
 
-  
+Lab 9: Introduction to Graphs: GraphList structure
+ - Creating a number graph, using Lists to represent edges between nodes.
+ - Program builds a number graph from .txt file input, then displays the nodes and their edges.
+ 
+Lab 10: Introduction to Heaps: The Minimum Array Heap - Zoo animal directory
+ - Creating a Minimum Heap Array of Zoo entries
+ - Program allows user to input creatures in the zoo manually or from file input
+ - Program also inlcudes a provided implementation of a Binary Search Tree for reference as to what the correct output should be.
+ 
+Practice Folder: Some basic in-class practice with Insertion and Selection sorting algorithms
   
   
   
