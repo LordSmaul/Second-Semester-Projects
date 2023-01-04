@@ -6,7 +6,7 @@ There are two types of assignments here: Labs and Projects. The labs were given 
 
 All projects have been edited from their original forms: I have taken the liberty of removing personal information (since this folder is public) and reduced the assignments to the source files, executables, and any text files that the programs use.
 
-Here's a quick rundown of the assignments and their goals:
+**Here's a quick rundown of the assignments and their goals:**
 
 Lab 1: Practice with classes and pointers; sort of a re-cap of the last things we did in the previous semester.
  - Creates a structure called "Course", with mutiple attributes
